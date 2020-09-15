@@ -36,7 +36,23 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountSpaces.cs" />
+    <Compile Include="Date.cs" />
+    <Compile Include="DelegateSolution.cs" />
+    <Compile Include="InterfaceSolution.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Time.cs" />
+    <Compile Include="Version.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ex04.Menus.Delegates\Ex04.Menus.Delegates.csproj">
+      <Project>{cb2b0b37-dc43-4084-9814-1814c213c321}</Project>
+      <Name>Ex04.Menus.Delegates</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ex04.Menus.Interfaces\Ex04.Menus.Interfaces.csproj">
+      <Project>{b8366984-d795-4c82-a2f6-7782b8c6b682}</Project>
+      <Name>Ex04.Menus.Interfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
