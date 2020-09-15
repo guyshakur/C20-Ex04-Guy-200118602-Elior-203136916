@@ -6,12 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Ex04.Menus.Interfaces
-
 {
-    public class ExecuteMethodItem :MenuItem
+    public class ExecuteMethodItem : MenuItem
     {
         private IExecutable m_Executable;
-
 
         public ExecuteMethodItem(string i_Title)
             : base(i_Title)
@@ -21,13 +19,14 @@ namespace Ex04.Menus.Interfaces
 
         public IExecutable Executable
         {
-            set
-            {
-                m_Executable = value;
-            }
             get
             {
                 return m_Executable;
+            }
+
+            set
+            {
+                m_Executable = value;
             }
         }
 

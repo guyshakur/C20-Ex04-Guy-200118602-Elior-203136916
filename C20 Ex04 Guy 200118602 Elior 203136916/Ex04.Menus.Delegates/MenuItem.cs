@@ -8,8 +8,8 @@ namespace Ex04.Menus.Delegates
 {
     public class MenuItem
     {
-        private string m_ExitTitle;
         private readonly List<MenuItem> r_Menus;
+        private string m_ExitTitle;
         private string m_Title;
         private MenuItem m_Parent;
 
@@ -18,16 +18,15 @@ namespace Ex04.Menus.Delegates
             r_Menus = new List<MenuItem>();
             Title = i_Title;
             ExitTitle = "Back";
-
         }
 
         public string ExitTitle
-        { 
+        {
             get
             {
                 return m_ExitTitle;
             }
-            
+
             set
             {
                 m_ExitTitle = value;
@@ -40,6 +39,7 @@ namespace Ex04.Menus.Delegates
             {
                 return m_Parent;
             }
+
             set
             {
                 m_Parent = value;
@@ -52,6 +52,7 @@ namespace Ex04.Menus.Delegates
             {
                 return m_Title;
             }
+
             set
             {
                 m_Title = value;
@@ -92,15 +93,14 @@ namespace Ex04.Menus.Delegates
             {
                 userChoiseStr = Console.ReadLine();
                 int.TryParse(userChoiseStr, out userChoice);
-                if (!(int.TryParse(userChoiseStr, out userChoice)) || userChoice < 0 || userChoice > r_Menus.Count)
+                if (!int.TryParse(userChoiseStr, out userChoice) || userChoice < 0 || userChoice > r_Menus.Count)
                 {
                     Console.WriteLine("Invalid input,please try again");
                 }
             }
-            while (!(int.TryParse(userChoiseStr, out userChoice)) || userChoice < 0 || userChoice > r_Menus.Count);
+            while (!int.TryParse(userChoiseStr, out userChoice) || userChoice < 0 || userChoice > r_Menus.Count);
 
             return userChoice;
-
         }
 
         private void displayUserChoice(int i_UserChoice)
@@ -111,13 +111,11 @@ namespace Ex04.Menus.Delegates
             }
             else
             {
-                if(Parent!=null)
+                if (Parent != null)
                 {
                     Parent.Show();
                 }
-                
             }
         }
-
     }
 }

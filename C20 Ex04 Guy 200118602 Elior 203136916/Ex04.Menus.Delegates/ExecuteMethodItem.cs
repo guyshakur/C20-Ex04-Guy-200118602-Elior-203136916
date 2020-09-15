@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Ex04.Menus.Delegates
 {
-    //public delegate void ExecuteChosenItem(string i_Button);
     public class ExecuteMethodItem : MenuItem
     {
         public event Action m_ExectuteSelectedItem;
