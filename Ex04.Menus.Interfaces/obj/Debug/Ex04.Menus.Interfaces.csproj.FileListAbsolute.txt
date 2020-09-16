@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

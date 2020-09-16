@@ -93,7 +93,7 @@ namespace Ex04.Menus.Interfaces
             {
                 userChoiseStr = Console.ReadLine();
                 int.TryParse(userChoiseStr, out userChoice);
-                if (!(int.TryParse(userChoiseStr, out userChoice) || userChoice < 0 || userChoice > r_Menus.Count))
+                if (!int.TryParse(userChoiseStr, out userChoice) || userChoice < 0 || userChoice > r_Menus.Count)
                 {
                     Console.WriteLine("Invalid input,please try again");
                 }

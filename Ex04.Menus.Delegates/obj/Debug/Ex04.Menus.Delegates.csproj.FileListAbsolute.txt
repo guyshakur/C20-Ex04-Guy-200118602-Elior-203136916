@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\USER\Desktop\HIT project\dot net\EX04\C20 Ex04 GuySchiff 200118602 EliorNourani 203136916\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
